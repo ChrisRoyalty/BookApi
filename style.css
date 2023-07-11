@@ -82,6 +82,7 @@ form button {
   .books {
     display: flex;
     flex-direction: column;
-    width: 42vw;
+    width: 45vw;
+    gap: 15px;
   }
 }
