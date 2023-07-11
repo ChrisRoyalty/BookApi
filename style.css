@@ -79,6 +79,9 @@ form button {
   #main {
     width: 95vw;
   }
+  input {
+    width: 50vw;
+  }
   .books {
     display: flex;
     flex-direction: column;
